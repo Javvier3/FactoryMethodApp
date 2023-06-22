@@ -4,6 +4,6 @@ class Sheep : IAnimal
 {
     public void MakeSound()
     {
-        Console.WriteLine("Baa!");
+        Console.WriteLine("English: Baa! Baa! Baa!");
     }
 }
